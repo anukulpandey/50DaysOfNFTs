@@ -32,7 +32,7 @@ Star this repository to support me :)
 ![Screenshot](./resources/day2-1.png)
 
 #### Resource
-![Screenshot](./resources/day2-2.jng)
+![Screenshot](./resources/day2-2.jpg)
 
 ## Authors
 

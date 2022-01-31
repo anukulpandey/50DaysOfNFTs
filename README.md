@@ -34,6 +34,9 @@ Star this repository to support me :)
 #### Resource
 ![Screenshot](./resources/day2-2.jpg)
 
+### Day 3
+![Screenshot](./resources/day-3.png)
+
 ## Authors
 
 - [@anukulpandey](https://www.github.com/anukulpandey)
